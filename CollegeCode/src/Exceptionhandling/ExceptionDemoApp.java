@@ -21,7 +21,6 @@ public class ExceptionDemoApp {
 		
 		arr[aa]=999;
 		
-		
 		} catch(ArithmeticException e) {
 			
 			System.out.println("Divide by zero is not allowed ");
@@ -34,8 +33,6 @@ public class ExceptionDemoApp {
 		}
 		
 		System.out.println("connnection is terminated.");
-		
-		
 	}
 
 }
